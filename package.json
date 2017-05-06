@@ -1,0 +1,15 @@
+{
+  "name": "my-first-bot",
+  "version": "0.0.1",
+  "description": "A simple bot which echoes (copies) everything you say!",
+  "main": "index.js",
+  "dependencies": {
+    "botpress": "0.x"
+  },
+  "scripts": {
+    "start": "botpress start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philippe Thibault",
+  "license": "Botpress Proprietary License"
+}
