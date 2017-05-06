@@ -4,7 +4,10 @@
   "description": "A simple bot which echoes (copies) everything you say!",
   "main": "index.js",
   "dependencies": {
-    "botpress": "0.x"
+    "botpress": "0.x",
+    "botpress-messenger": "^2.0.11",
+    "botpress-rivescript": "^2.0.5",
+    "botpress-slack": "^1.0.21"
   },
   "scripts": {
     "start": "botpress start",
